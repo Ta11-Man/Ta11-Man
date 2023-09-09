@@ -1,6 +1,6 @@
--  Hello, I’m @Ta11-Man.
+-  Hello, my name is Gabe.
 -  I’m interested in a lot of things, from data analysis to tree felling.
--  I’m currently learning computer science fundamentals.
+-  I’m currently learning computer science fundamentals at Purdue University.
 
 
 <!---
